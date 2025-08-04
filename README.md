@@ -1,8 +1,5 @@
 ## Hi there Iam Mai Mahmoud👋
 
-<!--
-# 👋 Hi there, I'm Mai Mahmoud!
-
 🎓 I'm currently a B.Tech student at CIC College, passionate about front-end development and creating clean, user-friendly web interfaces.
 
 💻 I enjoy building projects with HTML, CSS, JavaScript, and I'm currently diving deeper into **React** and modern web development practices.
