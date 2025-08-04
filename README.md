@@ -11,11 +11,6 @@
 - React (with Vite), Git & GitHub
 - APIs, JSON, Responsive Design
 
-📌 Projects I'm proud of:
-- An e-commerce styled site inspired by **SHEIN**
-- A React form app with live input preview & data table
-- Responsive designs using manual media queries
-
 ✨ I'm also passionate about personal growth, self-discovery, and expressing my authentic self through both code and creativity.
 
 📫 Let's connect:  
